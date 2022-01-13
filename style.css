@@ -1,0 +1,82 @@
+
+html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      font-family: "Larsseit";
+      font-weight: lighter;
+}
+
+.add-prod {
+      margin: 50px 0;
+}
+
+.add-prod a {
+      padding: 20px 40px;
+      background: #000;
+      font-weight: 300;
+      letter-spacing: 4px;
+      color: #fff !important;
+      text-decoration: none;
+}
+
+.add-prod a:hover {
+      text-decoration: none;
+}
+
+.hero {
+      height: 200px;
+      background: #f7f6f2;
+      position: relative;
+}
+
+#hero-title {
+      position: absolute;
+      font-family: "Playfair Display";
+      top: 55%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
+
+.content {
+      margin: 50px 0;
+      width: 65% ;
+}
+
+.content p {
+      font-family: "Larsseit";
+      font-weight: 300;
+      color: rgba(0,0,0,0.6);
+}
+
+form label, textarea {
+      font-family: "Larsseit";
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+}
+
+.title1{
+  margin-left:500px;
+  margin-top:-70px;
+  font-size:50px;
+  font-family: "Larsseit";
+  position:absolute;
+  color: rgba(120,100,225,0.4);
+}
+
+.title2{
+  margin-left:480px;
+  margin-top:-80px;
+  font-size:50px;
+  font-family: "Larsseit";
+  position:absolute;
+}
+
+.dog_image { height:350px;
+              margin: auto 480px;
+              float: left;
+              margin-bottom: 100px;
+              border: 1px solid white;
+              border-radius: 7px}
